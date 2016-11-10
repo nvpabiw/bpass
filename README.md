@@ -23,7 +23,7 @@ Why BPass?
 - **Secure deletion** of decryption file to make it
   unrecoverable when it is no longer in use
 
-- **No meta data** related to encrypted file is leaked
+- **No metadata** related to encrypted file is leaked
 
 
 
