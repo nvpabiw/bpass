@@ -1,15 +1,15 @@
 # BPass
 Simple Password Manager based on Bash
 
-Why I decided to code BPass?
+
+
+Why BPass?
 ===============================================
-- **Simplicity** 
-  Main goal is to make the process of storing passwords 
+- **Simplicity**: Main goal is to make the process of storing passwords 
   as simpleas possible for the average user without 
   going through a big learning curve on how to use it
 
-- **Portability** 
-  User doesn't need to go through the hassle
+- **Portability**: User doesn't need to go through the hassle
   of importing gpg keys, etc. as just having a copy of 
   the encrypted password file should be enough
 
@@ -24,6 +24,7 @@ Why I decided to code BPass?
   erased to make it unrecoverable
 
 - No meta data related to encrypted file is leaked
+
 
 
 Features
