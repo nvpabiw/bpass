@@ -6,7 +6,7 @@
 # Last Modified: Fri Nov 11, 2016
 #
 # BPASS - Simple Bash Based Password Manager
-# Copyright © 2016 F474A
+# Copyright © 2016 irenicus09
 # 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
