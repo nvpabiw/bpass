@@ -6,24 +6,24 @@ Simple Password Manager based on Bash
 Why BPass?
 ===============================================
 - **Simplicity**: Main goal is to make the process of storing passwords 
-  as simpleas possible for the average user without 
+  as simple as possible for the average user without 
   going through a big learning curve on how to use it
 
 - **Portability**: User doesn't need to go through the hassle
   of importing gpg keys, etc. as just having a copy of 
   the encrypted password file should be enough
 
-- Bash is everywhere on Linux/Unix based systems
+- **Bash** is everywhere on Linux/Unix based systems
   so BPass should work out of the box as long as 
   Openssl package is installed. 
 
-- Password file is automatically encrypted & decrypted
-  each time bpass is used.
+- **Automatic** encryption & decryption process of password 
+  file each time bpass is used.
 
-- Decrypted file that is no longer in use is securely 
-  erased to make it unrecoverable
+- **Secure deletion** of decryption file to make it
+  unrecoverable when it is no longer in use
 
-- No meta data related to encrypted file is leaked
+- **No meta data** related to encrypted file is leaked
 
 
 
